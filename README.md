@@ -28,3 +28,4 @@ Our development standards apply to all projects involving development of any kin
 Please sign this document to certify you've read and commit to it. (Sign by pushing a commit with your name added below.)
 
 - Curtis Blackwell
+- Tyler Etters
