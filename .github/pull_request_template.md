@@ -23,7 +23,7 @@
   - [ ] reasoning for the proposed change, and
   - [ ] an example/instructions on how to embody the standard unless repealing.
 
-  *Check boxes if requirement met or irrelevant.*
+*Check boxes if requirement met or irrelevant.*
 
 
 
