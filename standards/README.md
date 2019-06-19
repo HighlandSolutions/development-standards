@@ -52,7 +52,7 @@ Devs vote by using emoji reactions on the initial PR comment **after the author 
 | Nay     | :-1:   |
 | Abstain | :eyes: |
 
-We determine the result with a simple plurality once all devs have voted. Anyone but the author may merge or close the PR once voting ends.
+We determine the result with a simple plurality once all devs have voted. Anyone but the author may merge or close the PR once voting ends. Delete the branch after merging.
 
 
 ## Directory structure
