@@ -18,7 +18,7 @@
 
 - [ ] This PR contains a single change.
 - [ ] The proposed standard follows [the established directory structure][directory-structure].
-- [ ] The author provided:
+- The author provided:
   - [ ] a succinct summary,
   - [ ] reasoning for the proposed change, and
   - [ ] an example/instructions on how to embody the standard unless repealing.
@@ -28,4 +28,4 @@
 
 
 
-[directory-structure]: ../tree/master/standards#directory-structure
+[directory-structure]: ../standards#directory-structure
