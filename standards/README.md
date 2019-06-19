@@ -1,6 +1,6 @@
 ## We prefer fewer, simpler standards
 We want to:
-- avoid creating an overwhelming body of standards that becomes difficult to keep track of, and 
+- avoid creating an overwhelming body of standards that becomes difficult to keep track of and 
 - spend as little time and effort as is viable reading and learning standards.
 
 
