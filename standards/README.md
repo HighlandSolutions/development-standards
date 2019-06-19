@@ -46,9 +46,11 @@ This stage looks a lot like a code review: other devs participate by reading thr
 ### Vote
 Devs vote by using emoji reactions on the initial PR comment **after the author indicates voting started**. 
 
-- Yea: :+1:
-- Nay: :-1:
-- Abstain: :eyes:
+| Vote    | Emoji  |
+|:------- |:------:|
+| Yea     | :+1:   |
+| Nay     | :-1:   |
+| Abstain | :eyes: |
 
 We determine the result with a simple plurality once all devs have voted. Anyone but the author may merge or close the PR once voting ends.
 
