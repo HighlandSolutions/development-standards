@@ -33,3 +33,5 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Jordan Welch
 - Matt Holmes
 - Shad Mickelberry
+- Jorge Carrillo
+- Giovanni Perez
