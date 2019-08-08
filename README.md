@@ -37,4 +37,5 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Giovanni Perez
 - Brad Zasada
 - Daniel Lind
+- Kristina Giffin
 
