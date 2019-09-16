@@ -12,7 +12,7 @@ However, tests carry a maintenance weight, just like production code.  We should
 
 
 ## Explanation
-### Unit tests:
+#### Unit tests:
 "Test each individual piece of code"
 
 
@@ -21,7 +21,7 @@ A unit test is a test written by a programmer to verify that a relatively small 
 
 We should strive to test all the branches of a function.  However, when you create setup heavy tests, you create brittle tests.  If you find yourself writing a unit test that requires lots of complex mocking or uses 10x more code than the function being tested, then you need to use an integration test instead (or redesign your function).
 
-### Integration Tests
+#### Integration Tests
 "Test the integrations of many units together (dependencies, databases and libraries)"
 
 
@@ -30,7 +30,7 @@ An integration test is done to demonstrate that different pieces of the system w
 
 We should find a happy balance between unit/integration/acceptance tests.  Integration tests should be used for things like making sure a route calls a controller function, queries a database properly and returns the correct response.  It shouldn't be used to replace unit testing a function that has lots of different logic branches.
 
-### Acceptance Tests
+#### Acceptance Tests
 "Test that the program works the way a user/customer expects"
 
 
