@@ -1,4 +1,4 @@
-# Title
+# Approach to Automated Testing
 ## Summary
 Testing is an essential part of software development and part of Highland Solution's culture.
 
