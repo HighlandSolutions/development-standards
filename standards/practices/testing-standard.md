@@ -12,7 +12,7 @@ However, tests carry a maintenance weight, just like production code.  We should
 
 
 ## Explanation
-#### Unit tests:
+#### Unit tests
 "Test each individual piece of code"
 
 
