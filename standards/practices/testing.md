@@ -156,9 +156,9 @@ These two tests improve on the previous example in several ways:
 ## Explanation
 Tests help us improve the quality of our software. However, tests carry maintenance costs, so **our tests should add value to our software**. In pursuit of this value:
 
-1. Avoid overly-specific coverage goals.  
+1. **Avoid overly-specific coverage goals.**  
   E.g. 80% code coverage. Goals like this incentivize writing more tests than required to obtain confidence in the software.
-2. Don't test what you don't own.  
+2. **Don't test what you don't own.**  
   Testing frameworks and other third-party software indicates you don't trust the package you decided to rely on.
 
 Breaking these guidelines usually adds to maintenance costs without adding any value to our software.
