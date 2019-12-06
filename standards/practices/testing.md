@@ -18,12 +18,12 @@ However, tests carry a maintenance weight, just like production code. We should 
 
 A unit test is a test written by a programmer to verify that a relatively small piece of code is doing what it is intended to do. Unit tests shouldn’t have dependencies on outside systems. They test internal consistency as opposed to proving that they play nicely with some outside system. 
 
-We should strive to test all the branches of a function. However, when you create setup-heavy tests, you create brittle tests. If you find yourself writing a unit test that requires lots of complex mocking or uses 10x more code than the function being tested, then you need to use an integration test instead (or redesign your function).
+We should strive to test all the branches of a function. However, when we create setup-heavy tests, we create brittle tests. If you find yourself writing a unit test that requires complex mocking or uses significantly more code than the function being tested, then you should most likely use an integration test instead or rethink your implementation.
 
 ### Integration Tests
 "Test the integrations of many units together (dependencies, databases and libraries)"
 
-An integration test is done to demonstrate that different pieces of the system work together. The integration tests do a more convincing job of demonstrating the system works (especially to non-programmers) than a set of unit tests can, at least to the extent the integration test environment resembles production.
+An integration test is done to demonstrate that different pieces of the system work together. The integration tests do a more convincing job of demonstrating the system works than a set of unit tests can, at least to the extent the integration test environment resembles production.
 
 We should find a happy balance between unit/integration/acceptance tests. Integration tests should be used for things like making sure a route calls a controller function, queries a database properly and returns the correct response. It shouldn't be used to replace unit testing a function that has lots of different logic branches.
 
