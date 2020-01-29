@@ -161,7 +161,7 @@ Tests help us improve the quality of our software. However, tests carry maintena
 2. **Don't test what you don't own.**  
   Testing frameworks and other third-party software indicates you don't trust the package you decided to rely on.
 
-Breaking these guidelines usually adds to maintenance costs without adding any value to our software.
+Breaking these guidelines usually adds to maintenance costs without adding worthwhile value to our software.
 
 ### Unit tests
 *Test individual pieces of code.*
