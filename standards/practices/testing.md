@@ -159,7 +159,9 @@ Tests help us improve the quality of our software. However, tests carry maintena
 1. **Avoid overly-specific coverage goals.**  
   E.g. 80% code coverage. Goals like this incentivize writing more tests than required to obtain confidence in the software.
 2. **Don't test what you don't own.**  
-  Testing frameworks and other third-party software indicates you don't trust the package you decided to rely on.
+  Testing languages, frameworks, and other third-party software indicates you don't trust the dependency you decided to rely on.
+3. **Avoid testing basic operations.**  
+  E.g. Testing an Eloquent model's relationships. Though you own the method on the model, in nearly every case, it merely consumes the framework.
 
 Breaking these guidelines usually adds to maintenance costs without adding worthwhile value to our software.
 
