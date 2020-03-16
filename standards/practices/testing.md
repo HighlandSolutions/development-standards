@@ -163,7 +163,7 @@ Tests help us improve the quality of our software. However, tests carry maintena
 3. **Avoid testing basic operations.**  
   E.g. Testing an Eloquent model's relationships. Though you own the method on the model, in nearly every case, it merely consumes the framework.
 4. **Test the input and output, not the implementation.**  
-  Implemtation may change over time. Tests shouldn't fail after refactoring.
+  Implementation may change over time. Tests shouldn't fail after refactoring.
 
 Breaking these guidelines usually adds to maintenance costs without adding worthwhile value to our software.
 
