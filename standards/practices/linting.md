@@ -24,7 +24,7 @@ Install an editor extension. Here are some popular options:
 Run from project root:  
 
 ```sh
-npm i -D eslint eslint-config-highland
+npm i -D eslint @highlandsolutions/eslint-config-highland
 curl https://raw.githubusercontent.com/HighlandSolutions/development-standards/master/standards/assets/.eslintrc.js > .eslintrc.js
 ```
 

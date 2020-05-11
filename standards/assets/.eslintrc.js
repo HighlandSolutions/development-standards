@@ -5,7 +5,7 @@ module.exports = {
     // Uncomment the next line if this project uses Vue.
     // 'plugin:vue/essential',
     // This should come last unless there's a specific reason to override our config with another.
-    'highland',
+    '@highlandsolutions/highland',
   ],
 
   env: {
