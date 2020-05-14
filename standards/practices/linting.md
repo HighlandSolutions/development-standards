@@ -6,7 +6,7 @@ We lint our code.
 ## Reasoning
 1. Consistent formatting is easier to read than inconsistent formatting.
 2. Linting helps us avoid errors.
-3. Linting reduces noise from functionally meaningless changes.
+3. Linting reduces noise from functionally meaningless changes as seen in diffs.
 
 
 ## Example/Instructions
