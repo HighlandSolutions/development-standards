@@ -17,7 +17,7 @@ For all languages, enable extensions' fix-on-save options (or at least fix warni
 Install an editor extension. Here are some popular options:
 
 - [Atom](https://atom.io/packages/linter-eslint)
-- [Sublime Text](ttps://packagecontrol.io/packages/SublimeLinter-eslint)
+- [Sublime Text](https://packagecontrol.io/packages/SublimeLinter-eslint)
 - [VS Code](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 #### Project setup
