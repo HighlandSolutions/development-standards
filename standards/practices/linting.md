@@ -26,7 +26,7 @@ Run from project root:
 
 ```sh
 npm i -D eslint @highlandsolutions/eslint-config-highland
-curl https://raw.githubusercontent.com/HighlandSolutions/development-standards/master/standards/assets/.eslintrc.js > .eslintrc.js
+curl https://raw.githubusercontent.com/HighlandSolutions/development-standards/master/assets/linting/.eslintrc.js > .eslintrc.js
 ```
 
 Tweak `.eslintrc.js` as needed. For example, you might need to enable linting for Vue, add a global, or tweak import resolution.
@@ -51,5 +51,5 @@ Run from project root:
 
 ```sh
 composer require --dev friendsofphp/php-cs-fixer
-curl https://raw.githubusercontent.com/HighlandSolutions/development-standards/master/standards/assets/.php_cs > .php_cs
+curl https://raw.githubusercontent.com/HighlandSolutions/development-standards/master/assets/linting/.php_cs > .php_cs
 ```
