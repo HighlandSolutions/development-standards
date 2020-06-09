@@ -32,11 +32,13 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Stu Heiss
 - Jordan Welch
 - Matt Holmes
-- Shad Mickelberry
 - Jorge Carrillo
-- Giovanni Perez
 - Brad Zasada
 - Daniel Lind
+
+### Past stewards
+- Shad Mickelberry
+- Giovanni Perez
 - Kristina Giffin
 - Chris Womble
 - Greg Ochab
