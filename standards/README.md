@@ -5,7 +5,7 @@ We want to:
 
 
 ## Lifecycle of a standard
-![](../img/standard-lifecycle.png)
+![](../assets/img/standard-lifecycle.png)
 
 ***NOTE:** Proposals can represent a new standard or an amendment or repeal of an existing standard.*
 
