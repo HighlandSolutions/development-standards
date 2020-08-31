@@ -31,7 +31,6 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Tyler Etters
 - Stu Heiss
 - Jordan Welch
-- Matt Holmes
 - Brad Zasada
 
 ### Past stewards
@@ -42,3 +41,4 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Kristina Giffin
 - Chris Womble
 - Greg Ochab
+- Matt Holmes
