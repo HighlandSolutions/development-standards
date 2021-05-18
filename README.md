@@ -33,6 +33,7 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Jordan Welch
 - Brad Zasada
 - Ashish Abraham
+- Simon Bashir
 
 ### Past stewards
 - Daniel Lind
