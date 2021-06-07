@@ -34,7 +34,6 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Brad Zasada
 - Ashish Abraham
 - Tony Meadors
-- Simon Bashir
 
 ### Past stewards
 - Daniel Lind
@@ -45,3 +44,4 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Chris Womble
 - Greg Ochab
 - Matt Holmes
+- Simon Bashir
