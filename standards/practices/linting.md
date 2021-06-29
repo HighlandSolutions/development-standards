@@ -42,7 +42,6 @@ brew install php-cs-fixer
 Install an editor extension. Here are some popular options:
 
 - [Atom](https://atom.io/packages/php-cs-fixer)
-- Brackets does not appear to have a PHP Coding Standards Fixer plugin.
 - [Sublime Text](https://packagecontrol.io/packages/SublimeLinter-contrib-php-cs-fixer)
 - [VS Code](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
 
