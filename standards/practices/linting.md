@@ -50,5 +50,5 @@ Run from project root:
 
 ```sh
 composer require --dev friendsofphp/php-cs-fixer
-curl https://raw.githubusercontent.com/HighlandSolutions/development-standards/master/assets/linting/.php_cs > .php_cs
+curl https://raw.githubusercontent.com/HighlandSolutions/development-standards/master/assets/linting/.php-cs-fixer.php > .php-cs-fixer.php
 ```
