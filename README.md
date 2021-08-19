@@ -30,7 +30,6 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Curtis Blackwell
 - Tyler Etters
 - Stu Heiss
-- Jordan Welch
 - Brad Zasada
 - Ashish Abraham
 - Tony Meadors
@@ -45,3 +44,4 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Greg Ochab
 - Matt Holmes
 - Simon Bashir
+- Jordan Welch
