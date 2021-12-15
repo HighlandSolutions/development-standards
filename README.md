@@ -32,7 +32,6 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Stu Heiss
 - Brad Zasada
 - Ashish Abraham
-- Tony Meadors
 
 ### Past stewards
 - Daniel Lind
@@ -45,3 +44,4 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Matt Holmes
 - Simon Bashir
 - Jordan Welch
+- Tony Meadors
