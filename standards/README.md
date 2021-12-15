@@ -26,7 +26,7 @@ Proposals must include:
 
 #### Amendment
 1. Check that no one else has begun working on the same amendment by checking open branches and/or asking the other devs.
-2. Branch off of `main`. Name the branch after the [filepath](#directory-structure) using kebab-case, prefixed with `amendment-` (e.g. `amendment-practices-linting`).
+2. Branch off of `main`. Name the branch after the [filepath](#directory-structure) using kebab-case, prefixed with `amendment-` (e.g. `amendment-practices-linting`). If this would result in a branch naming conflict, append a unique identifier to the end of the branch name (e.g. `amendment-practices-linting-php-cs-fixer`).
 3. Push the empty branch immediately for visibility and to help prevent duplicate efforts.
 4. Draft your changes.
 5. Create a pull request with a descriptive title.
