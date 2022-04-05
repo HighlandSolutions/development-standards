@@ -32,6 +32,7 @@ Please sign this document to certify you've read and commit to it. (Sign by push
 - Brad Zasada
 - Ashish Abraham
 - Lisa Catalano
+- Eric Pearson
 
 ### Past stewards
 - Daniel Lind
