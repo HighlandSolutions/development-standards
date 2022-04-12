@@ -18,7 +18,7 @@ Proposals must include:
 ### Proposal
 #### New standard
 1. Check that no one else has begun working on the same proposal by checking open branches and/or asking the other devs.
-2. Branch off of `master`. Name the branch after the [filepath](#directory-structure) using kebab-case, prefixed with `proposal-` (e.g. `proposal-practices-linting`).
+2. Branch off of `main`. Name the branch after the [filepath](#directory-structure) using kebab-case, prefixed with `proposal-` (e.g. `proposal-practices-linting`).
 3. Push the empty branch immediately for visibility and to help prevent duplicate efforts.
 4. Draft your proposal using the [standard template](../template-standard.md).
 5. Create a pull request with a descriptive title.
@@ -26,7 +26,7 @@ Proposals must include:
 
 #### Amendment
 1. Check that no one else has begun working on the same amendment by checking open branches and/or asking the other devs.
-2. Branch off of `master`. Name the branch after the [filepath](#directory-structure) using kebab-case, prefixed with `amendment-` (e.g. `amendment-practices-linting`).
+2. Branch off of `main`. Name the branch after the [filepath](#directory-structure) using kebab-case, prefixed with `amendment-` (e.g. `amendment-practices-linting`).
 3. Push the empty branch immediately for visibility and to help prevent duplicate efforts.
 4. Draft your changes.
 5. Create a pull request with a descriptive title.
@@ -34,7 +34,7 @@ Proposals must include:
 
 #### Repeal
 1. Check that no one else has begun working on the same repeal by checking open branches and/or asking the other devs.
-2. Branch off of `master`. Name the branch after the [filepath](#directory-structure) using kebab-case, prefixed with `repeal-` (e.g. `repeal-practices-linting`).
+2. Branch off of `main`. Name the branch after the [filepath](#directory-structure) using kebab-case, prefixed with `repeal-` (e.g. `repeal-practices-linting`).
 3. Push the empty branch immediately for visibility and to help prevent duplicate efforts.
 4. Draft your changes.
 5. Create a pull request with a descriptive title and informative comment.

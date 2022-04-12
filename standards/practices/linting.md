@@ -26,7 +26,7 @@ Run from project root:
 
 ```sh
 npm i -D eslint @highlandsolutions/eslint-config-highland
-curl https://raw.githubusercontent.com/HighlandSolutions/development-standards/master/assets/linting/.eslintrc.js > .eslintrc.js
+curl https://raw.githubusercontent.com/HighlandSolutions/development-standards/main/assets/linting/.eslintrc.js > .eslintrc.js
 ```
 
 Tweak `.eslintrc.js` as needed. For example, you might need to enable linting for Vue, add a global, or tweak import resolution.

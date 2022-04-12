@@ -28,4 +28,4 @@
 
 
 
-[directory-structure]: ../tree/master/standards#directory-structure
+[directory-structure]: ../tree/main/standards#directory-structure
