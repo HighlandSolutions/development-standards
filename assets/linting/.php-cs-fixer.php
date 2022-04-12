@@ -11,7 +11,12 @@ $rules = [
     'blank_line_before_statement'  => ['statements' => ['return']],
     'braces'                       => true,
     'cast_spaces'                  => true,
-    'class_attributes_separation'  => ['elements' => ['method']],
+    'class_attributes_separation'  => [
+        'elements' => [
+            'const'    => 'only_if_meta',
+            'property' => 'only_if_meta',
+        ]
+    ],
     'class_definition'             => true,
     'concat_space'                 => ['spacing' => 'one'],
     'declare_equal_normalize'      => true,
@@ -28,7 +33,7 @@ $rules = [
     'linebreak_after_opening_tag'  => true,
     'line_ending'                  => true,
     'lowercase_cast'               => true,
-    'lowercase_constants'          => true,
+    'constant_case'                => ['case' => 'lower'],
     'lowercase_keywords'           => true,
     'lowercase_static_reference'   => true,
     'magic_method_casing'          => true,
@@ -71,9 +76,11 @@ $rules = [
     'normalize_index_brace'                       => true,
     'not_operator_with_successor_space'           => true,
     'object_operator_without_whitespace'          => true,
-    'ordered_imports'                             => ['sortAlgorithm' => 'alpha'],
+    'ordered_imports'                             => ['sort_algorithm' => 'alpha'],
     'phpdoc_indent'                               => true,
-    'phpdoc_inline_tag'                           => true,
+    'general_phpdoc_tag_rename'                   => true,
+    'phpdoc_inline_tag_normalizer'                => true,
+    'phpdoc_tag_type'                             => true,
     'phpdoc_no_access'                            => true,
     'phpdoc_no_package'                           => true,
     'phpdoc_no_useless_inheritdoc'                => true,
@@ -84,7 +91,7 @@ $rules = [
     'phpdoc_trim'                                 => true,
     'phpdoc_types'                                => true,
     'phpdoc_var_without_name'                     => true,
-    'psr4'                                        => true,
+    'psr_autoloading'                             => true,
     'self_accessor'                               => true,
     'short_scalar_cast'                           => true,
     'simplified_null_return'                      => true,
@@ -100,7 +107,7 @@ $rules = [
     'switch_case_semicolon_to_colon'              => true,
     'switch_case_space'                           => true,
     'ternary_operator_spaces'                     => true,
-    'trailing_comma_in_multiline_array'           => true,
+    'trailing_comma_in_multiline'                 => ['elements' => ['arrays']],
     'trim_array_spaces'                           => true,
     'unary_operator_spaces'                       => true,
     'visibility_required'                         => ['elements' => ['method', 'property']],
@@ -119,7 +126,7 @@ $finder = Finder::create()
     ->ignoreDotFiles(true)
     ->ignoreVCS(true);
 
-return Config::create()
+return (new Config)
     ->setFinder($finder)
     ->setRules($rules)
     ->setRiskyAllowed(true)
