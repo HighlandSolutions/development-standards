@@ -1,9 +1,8 @@
 
-# Title
-### Proposal to add a README
+# Proposal to add a README
 
 ## Summary
-We add a README file to our codebase when we start a project
+We add a README file to our codebase when we start a project.
 
 ## Reasoning
 1. It helps people understand what the code does.
