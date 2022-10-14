@@ -1,5 +1,5 @@
 
-# Proposal to add a README
+# Adding READMEs
 
 ## Summary
 We add a README file to our codebase when we start a project.
